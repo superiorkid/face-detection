@@ -1,12 +1,8 @@
-
 # Face Detection
 
 face detection app using opencv
 
-
 ## Run Locally
-
-
 
 Clone the project
 
@@ -29,11 +25,13 @@ Install package required
 Start
 
 ```bash
-  python facedetection.py
-```
+  python facedetection_webcam.py
 
+  or
+
+  python facedetection_img.py
+```
 
 ## Demo
 
-![Alt Text](https://github.com/superiorkid/face-detection/blob/main/demo.gif)
-
+![Alt Text](demo.gif)
